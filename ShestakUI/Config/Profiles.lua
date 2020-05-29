@@ -34,7 +34,7 @@ if T.level > 0 then
 	C["chat"].background = true
 	C["chat"].loot_icons = true
 
-	C["nameplate"].enable = false
+	C["nameplate"].enable = true
 	C["nameplate"].ad_height = 4
 	C["nameplate"].ad_width = 10
 	C["nameplate"].health_value = true
